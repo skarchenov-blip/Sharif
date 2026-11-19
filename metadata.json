@@ -1,0 +1,6 @@
+{
+  "name": "Business Manager Pro",
+  "description": "Современное веб-приложение для управления бизнесом, финансами, задачами, клиентами и аналитикой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
